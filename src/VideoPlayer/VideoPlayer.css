@@ -1,0 +1,5 @@
+.video-player-container {
+  max-width: 1165px; /* or any other width */
+  margin: auto; /* Center the video player */
+  aspect-ratio: 16 / 9; /* Maintain aspect ratio */
+}
